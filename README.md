@@ -62,7 +62,7 @@
 
 <a href="https://instagram.com/cosmic_3d" target="_blank"><img src="https://img.shields.io/badge/Instagram-cosmic3d-pink?style=for-the-badge&logo=instagram"></a>
 
-<a href="mailto:jenavarr@student.42barcelona.com" target="_blank"><img src="https://img.shields.io/badge/Email-jenavarr@student.42barcelona.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:chuslitle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-chuslitle@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
 Readme template: [KasRoudra](https://github.com/KasRoudra)
