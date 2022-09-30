@@ -2,7 +2,7 @@
 <h3 align="center">Im a student willing to become a programmer at 42 Barcelona, the best campus in the world :)</h3>
 
 <div align="center">
-<img width="500px" align="center" src="https://scontent.fbcn12-1.fna.fbcdn.net/v/t1.6435-9/150278229_245929190526000_6447679914045475130_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=aIdX5e8Pi4IAX_SEgC0&_nc_ht=scontent.fbcn12-1.fna&oh=00_AT9JOmWJ8AOjkhDAxBYdVm3bK8czOOlNuwsxJ8Sbm8HU7g&oe=63357EBE" />
+<img width="500px" align="center" src="https://i.redd.it/m3qe1oyy6m551.jpg" />
 </div>
 <h2 align="center"><u>About me</u></h2>
 <br>
