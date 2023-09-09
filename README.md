@@ -8,13 +8,15 @@
 <br>
 <p align="center">
 
- - Im currently learning C, Python, Bash and HTML.
+ - Im currently learning C, Python, Bash and PHP.
  
  - My hobbies are chess, videogames and playing the piano.
 
  - I love cats.
 
  - Sometimes I make music.
+
+ - Sometimes I make games.
 
 </p>
 
