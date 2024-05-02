@@ -55,6 +55,7 @@
 </p>
 
 <h2 align="center"><u>Some of my best works</u></h2>
+<div align="center">
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
@@ -62,6 +63,8 @@
 | _[Corsair](https://github.com/cosmic3d/Corsair)_            | A program you can use to try to exploit the RSA cryptosystem             |
 | _[Stockholm](https://github.com/cosmic3d/Stockholm)_                          | Ransomware for encrypting files in a home/infection directory     |
 | _[FDF](https://github.com/cosmic3d/ft_fdf)_                          | A little 3D graphics environment where you can try various maps    |
+
+</div>
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
