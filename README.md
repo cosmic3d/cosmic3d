@@ -79,7 +79,7 @@
 
 <a href="https://www.linkedin.com/in/jes%C3%BAs-navarro-romero-486856244/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Jesús Navarro-blue?style=for-the-badge&logo=linkedin"></a>
 
-<a href="mailto:chuslitle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-chuslitle@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:jnromero1313@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-jnromero1313@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
 Readme template: [KasRoudra](https://github.com/KasRoudra)
