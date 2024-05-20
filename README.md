@@ -57,6 +57,7 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
+| _[**COSMIC3D**](https://cosmic3d.github.io/jesusnavarro/)_                          | My own personal web portfolio    |
 | _[CUB3D](https://github.com/cosmic3d/cub3D)_                          | A 3d graphics environment made using Raycasting    |
 | _[Corsair](https://github.com/cosmic3d/Corsair)_            | A program you can use to try to exploit the RSA cryptosystem             |
 | _[Stockholm](https://github.com/cosmic3d/Stockholm)_                          | Ransomware for encrypting files in a home/infection directory     |
