@@ -85,6 +85,7 @@
 | _[Corsair](https://github.com/cosmic3d/Corsair)_            | A program you can use to try to exploit the RSA cryptosystem             |
 | _[Stockholm](https://github.com/cosmic3d/Stockholm)_                          | Ransomware for encrypting files in a home/infection directory     |
 | _[FDF](https://github.com/cosmic3d/ft_fdf)_                          | A little 3D graphics environment where you can try various maps    |
+| _[IRC Server](https://github.com/cosmic3d/ft_irc)_                          | A simple IRC server developed in C++    |
 
 </div>
 
