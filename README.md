@@ -1,5 +1,5 @@
 <h1 align="center">Hi coder, I am cosmic</h1>
-<h3 align="center">Im a student willing to become a programmer at 42 Barcelona, the best campus in the world :)</h3>
+<h3 align="center">I'm a music lover and art enthusiast, trying to create beautiful things with 1's and 0's combinations :)</h3>
 
 <div align="center">
 <img width="500px" align="center" src="https://i.redd.it/m3qe1oyy6m551.jpg" />
@@ -8,7 +8,7 @@
 <br>
 <p align="center">
 
- - Im currently learning more about AI and Data Science
+ - Im currently developing Mirlo, a social media platform where you can create beautiful connections with people through the music you love
  
  - My hobbies are playing chess, indie games and trying to understand things :)
 
